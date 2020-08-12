@@ -1,4 +1,3 @@
-[![](https://count.getloli.com/get/@:Shino161)](https://count.getloli.com/)
 
 #### Platform&Tools
 [![](https://img.shields.io/badge/macOS-Hackintosh-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.tonymacx86.com/)

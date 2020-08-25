@@ -23,4 +23,4 @@
 [![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org/)
 
 #### Github stats
-[![Shino161's github stats](https://github-readme-stats.vercel.app/api?username=Shino161)](https://github.com/Shino161/github-readme-stats)
+[![Shino161's github stats](https://github-readme-stats.vercel.app/api?username=Shino161)]
